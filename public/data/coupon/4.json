@@ -1,0 +1,46 @@
+{
+  "id": 4,
+  "name": "England Premier League",
+  "events": [
+    {
+      "id": 10005,
+      "name": "Liverpool v Southampton",
+      "date": "2025-03-14T21:00:00Z",
+      "category": "soccer",
+      "markets": [
+        {
+          "id": 1003,
+          "name": "Win From Behind",
+          "selections": [
+            {
+              "id": 100017,
+              "odds": 1.77,
+              "description": "Liverpool"
+            },
+            {
+              "id": 100018,
+              "odds": 3.12,
+              "description": "Southampton"
+            }
+          ]
+        },
+        {
+          "id": 1004,
+          "name": "Draw No Bet",
+          "selections": [
+            {
+              "id": 100019,
+              "odds": 2.46,
+              "description": "Liverpool"
+            },
+            {
+              "id": 100020,
+              "odds": 1.85,
+              "description": "Southampton"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

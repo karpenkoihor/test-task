@@ -1,0 +1,46 @@
+{
+  "id": 3,
+  "name": "B.League",
+  "events": [
+    {
+      "id": 10004,
+      "name": "Osaka Evessa v Shimane Susanoo Magic",
+      "date": "2025-03-12T14:00:00Z",
+      "category": "basketball",
+      "markets": [
+        {
+          "id": 1001,
+          "name": "Money Line",
+          "selections": [
+            {
+              "id": 100013,
+              "odds": 5.25,
+              "description": "Osaka Evessa"
+            },
+            {
+              "id": 100014,
+              "odds": 1.05,
+              "description": "Shimane Susanoo Magic"
+            }
+          ]
+        },
+        {
+          "id": 1002,
+          "name": "Alternative Handicap",
+          "selections": [
+            {
+              "id": 100015,
+              "odds": 2.80,
+              "description": "Osaka Evessa"
+            },
+            {
+              "id": 100016,
+              "odds": 2.50,
+              "description": "Shimane Susanoo Magic"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

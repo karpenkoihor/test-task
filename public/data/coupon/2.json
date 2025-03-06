@@ -1,0 +1,46 @@
+{
+  "id": 2,
+  "name": "Adriatic League",
+  "events": [
+    {
+      "id": 10002,
+      "name": "Mornar v Subotica",
+      "date": "2025-03-08T15:00:00Z",
+      "category": "basketball",
+      "markets": [
+        {
+          "id": 1001,
+          "name": "Money Line",
+          "selections": [
+            {
+              "id": 100005,
+              "odds": 1.80,
+              "description": "Mornar"
+            },
+            {
+              "id": 100006,
+              "odds": 5.25,
+              "description": "Subotica"
+            }
+          ]
+        },
+        {
+          "id": 1002,
+          "name": "Alternative Handicap",
+          "selections": [
+            {
+              "id": 100007,
+              "odds": 3.00,
+              "description": "Mornar"
+            },
+            {
+              "id": 100008,
+              "odds": 1.22,
+              "description": "Subotica"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

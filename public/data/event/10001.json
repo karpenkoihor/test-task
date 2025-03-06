@@ -1,0 +1,40 @@
+{
+  "id": 10001,
+  "name": "Denver Nuggets @ Detroit Pistons",
+  "date": "2025-03-10T16:00:00Z",
+  "category": "basketball",
+  "markets": [
+    {
+      "id": 1001,
+      "name": "Money Line",
+      "selections": [
+        {
+          "id": 100001,
+          "odds": 2.05,
+          "description": "Denver Nuggets"
+        },
+        {
+          "id": 100002,
+          "odds": 1.80,
+          "description": "Detroit Pistons"
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "name": "Alternative Handicap",
+      "selections": [
+        {
+          "id": 100003,
+          "odds": 2.15,
+          "description": "Denver Nuggets"
+        },
+        {
+          "id": 100004,
+          "odds": 1.61,
+          "description": "Detroit Pistons"
+        }
+      ]
+    }
+  ]
+}
